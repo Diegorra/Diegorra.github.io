@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Diegorra
-logo: 
+logo: {{ site.baseurl }}/assets/images/favicon.jpg
 author: Diego
 description: this is my portfolio
 email: diegoramonsanchis@gmail.com
