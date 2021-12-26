@@ -7,12 +7,12 @@ author: Diego
 description: this is my portfolio
 email: diegoramonsanchis@gmail.com
 phone: +34 601 307 608
-#address: 
+address: Madrid, Spain
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+- {name: Projects, link: '/blog'}
 #- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
