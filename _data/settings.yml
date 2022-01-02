@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Diego <br> a software developer
+  hero-title: Hi! I’m <br> Diego, <br> Welcome to my personal page!
 
 social:
 #- {icon: "ti-facebook", link: "#"}
@@ -95,20 +95,20 @@ work-process:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Java, color: '#fdb157', value: '90%'}
+- {name: C, color: '#9473e6', value: '60%'}
+- {name: Python, color: '#bdecf6', value: '80%'}
+- {name: C++, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
-experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+#experience-title: Experience
+#experience:
+#- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+#- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+#- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Computer Science, date: '2019-now', organization: 'Universidad Complutense de Madrid'}
+- {name: Web Development course(HTML & CSS), date: '2018', organization: 'ICAI'}
+- {name: App Development couse, date: '2018', organization: 'ICAI'}
+- {name: The complete course for web development, date: '2021', organization: 'Udemy'}
 
 
 #-------------------------------
