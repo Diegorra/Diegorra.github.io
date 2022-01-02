@@ -52,8 +52,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  I am Diego an this is my personal page, welcome! I am finishing my last years of college at Universidad Complutense de Madrid and I am studing Computer Science. In these years I have learnt so many things such as programming languajes like Java, Python, C/C++, JavaSrcipt, development of software using diferent architectures like REST or MicroServices, relational databases like SQL, MySQL and non relational databases like MongoDB, and the basics of computer and web security
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
